@@ -1,90 +1,276 @@
 # 👋 Hey, I'm Saad Bashir
 
-<h3 align="center">
-  Frontend Developer • Software Engineer • MERN Stack Developer
-</h3>
-
 <p align="center">
-  Building modern, scalable and user-focused web applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Software+Engineer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="mailto:saadbashirdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/adnanabbasitech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adnanabbasitech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **Frontend Web Developer and Software Engineer** passionate about creating clean, responsive and high-performance web applications.
+I'm a **Frontend Web Developer and Software Engineer** focused on building modern, responsive and scalable web applications.
 
-I enjoy turning ideas into real products — from designing intuitive interfaces to building APIs, connecting databases and deploying applications.
+I enjoy working across the stack — from creating polished React interfaces to designing APIs, integrating databases and turning ideas into production-ready applications.
 
-- 🔭 Currently working on **Full-Stack MERN applications**
-- 🌱 Currently learning **Advanced React & Backend Optimization**
-- 💡 Interested in **Scalable Web Applications & SaaS**
-- 🤝 Open to **collaboration, freelance work and startup projects**
-- ⚡ I enjoy solving problems more than just writing code
-- 📫 Reach me at **saadbashirdev@gmail.com**
+```javascript
+const saad = {
+    role: "Frontend Developer | Software Engineer",
+
+    stack: {
+        frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "Firebase"],
+        cloud: ["AWS"]
+    },
+
+    currentlyLearning: [
+        "Advanced React",
+        "Backend Optimization",
+        "Scalable Architecture"
+    ],
+
+    interests: [
+        "Web Development",
+        "SaaS Products",
+        "System Design",
+        "Performance"
+    ],
+
+    mindset: "Build. Learn. Improve. Repeat. 🚀"
+};
+```
 
 ---
 
-## 🧠 What I Work With
+## 🚀 What I Do
 
-### 🎨 Frontend
+| Area              | Focus                                   |
+| ----------------- | --------------------------------------- |
+| 🎨 Frontend       | React, Next.js, responsive interfaces   |
+| ⚙️ Backend        | Node.js, Express.js, REST APIs          |
+| 🗄️ Database      | MongoDB, Firebase                       |
+| ☁️ Cloud          | AWS & deployment                        |
+| 🔐 Authentication | Secure authentication & authorization   |
+| ⚡ Performance     | Optimization and efficient applications |
+| 🧩 Architecture   | Maintainable and scalable code          |
+| 🤝 Collaboration  | Team & startup projects                 |
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/StarUML-2E6DB4?style=for-the-badge&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,figma" />
+</p>
+
+### 🧰 Other Tools
+
+<p>
+<img src="https://img.shields.io/badge/StarUML-2E6DB4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Development Philosophy
+# 🔥 Featured Projects
+
+### 🚀 Full-Stack MERN Applications
+
+Building complete web applications with:
+
+* ⚛️ React-based frontend
+* 🌐 RESTful APIs
+* 🔐 Authentication & authorization
+* 🍃 MongoDB data modeling
+* ⚡ Optimized API communication
+* 📱 Responsive design
+* ☁️ Cloud deployment
+
+### 💡 What I Like Building
 
 ```text
-        Idea
-          ↓
-     Architecture
-          ↓
-      Development
-          ↓
-       Testing
-          ↓
-     Optimization
-          ↓
-       Deployment
-          ↓
-      Real Product 🚀
+SaaS Applications
+       │
+       ├── Authentication
+       ├── Dashboards
+       ├── REST APIs
+       ├── Database Systems
+       ├── Payment Integrations
+       └── Cloud Deployment
+```
+
+> 🚧 More projects coming soon...
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanabbasitech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanabbasitech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adnanabbasitech&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanabbasitech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanabbasitech&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ⚡ My Developer Journey
+
+```text
+               ┌─────────────────┐
+               │      IDEA       │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │   ARCHITECTURE  │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │    DEVELOPMENT  │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │     TESTING     │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │   OPTIMIZATION  │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │    DEPLOYMENT   │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │  🚀 REAL WORLD  │
+               └─────────────────┘
+```
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend%20Optimization-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Development-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+
+# 💡 Developer Philosophy
+
+> **"Don't just make it work. Make it clean, scalable and worth maintaining."**
+
+I believe good software isn't only about writing code.
+
+It's about understanding the problem, choosing the right architecture, keeping things simple and continuously improving the product.
+
+---
+
+# 🤝 Open To
+
+I'm always interested in:
+
+* 🚀 Startup collaborations
+* 💼 Freelance projects
+* 🤝 Open-source contributions
+* 💡 SaaS ideas
+* 👨‍💻 Full-stack projects
+* 🌍 Working with developers around the world
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:saadbashirdev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/adnanabbasitech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>💻 Code • 🚀 Build • 📈 Improve</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider following me!
+</p>
